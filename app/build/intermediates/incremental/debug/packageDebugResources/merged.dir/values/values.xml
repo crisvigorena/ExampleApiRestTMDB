@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_color">#E040FB</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_primary_color">#FFA000</color>
+    <color name="divider_color">#BDBDBD</color>
+    <color name="light_primary_color">#FFECB3</color>
+    <color name="primary_color">#FFC107</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="text_icons">#212121</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ExampleApiRestTMDB</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Search Products</string>
+    <style name="Base.Theme.ExampleApiRestTMDB" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ExampleApiRestTMDB" parent="Base.Theme.ExampleApiRestTMDB"/>
+</resources>

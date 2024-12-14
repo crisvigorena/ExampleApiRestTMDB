@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExampleApiRestTMDB</string>
+    <string name="search_hint">Search Products</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
